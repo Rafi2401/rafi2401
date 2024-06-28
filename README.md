@@ -18,19 +18,19 @@ Here are some of my top projects:
 
 ### Data Analysis Project
 A comprehensive analysis of a large dataset to uncover meaningful insights and trends.
-- [Link to Data Analysis Project](https://github.com/username/data-analysis-project)
+- [Link to Data Analysis Project](https://github.com/rafi2401/data-analysis-project)
 
 ### AI Chatbot
 An AI-powered chatbot capable of natural language understanding and response generation.
-- [Link to AI Chatbot Project](https://github.com/username/ai-chatbot-project)
+- [Link to AI Chatbot Project](https://github.com/rafi2401/ai-chatbot-project)
 
 ### Web Scraper
 A web scraping tool to extract and analyze data from websites.
-- [Link to Web Scraper Project](https://github.com/username/web-scraper-project)
+- [Link to Web Scraper Project](https://github.com/rafi2401/web-scraper-project)
 
 ## Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/rafi2401)
 - [Twitter](https://twitter.com/rafigantian)
 - [Personal Website](https://www.yourwebsite.com)
 
-![Mukhamad Rafi Galih Saputro's GitHub stats](https://github-readme-stats.vercel.app/api?rafi2401=rafi2401&show_icons=true&theme=radical)
+![Mukhamad Rafi Galih Saputro's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafi2401&show_icons=true&theme=radical)
