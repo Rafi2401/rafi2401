@@ -31,6 +31,7 @@ A web scraping tool to extract and analyze data from websites.
 ## Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/rafi2401)
 - [Twitter](https://twitter.com/rafigantian)
+- [Kaggle](https://www.kaggle.com/your-kaggle-rafi2401)
 - [Personal Website](https://www.yourwebsite.com)
 
 ![Mukhamad Rafi Galih Saputro's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafi2401&show_icons=true&theme=radical)
