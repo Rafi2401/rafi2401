@@ -39,6 +39,7 @@ A web scraping tool to extract and analyze data from websites.
 ![GitHub Streak](https://streak-stats.demolab.com/?user=rafi2401&theme=radical)
 ![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=rafi2401&theme=react-dark)
 ![Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=rafi2401&theme=react-dark)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rafi2401&repo=nama-repository&theme=radical)](https://github.com/rafi2401/nama-repository)
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=rafi2401&theme=radical)
 
