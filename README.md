@@ -32,6 +32,8 @@ I'm a self-trained Data Analyst and Software Developer with experience in AI and
 - [Developed an efficient malware detection system using machine learning classifiers.](https://github.com/rafi2401/psvm-smo-dekomposisi)
 
 📫 **Contact me:** [rafikerja2401@gmail.com](mailto:rafikerja2401@gmail.com)
+💼 **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/username)
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafi2401&layout=compact&theme=radical)
 
