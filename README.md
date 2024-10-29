@@ -8,11 +8,6 @@
 - 💬 "Please feel free to inquire about AI, data analysis, and software development."
 - 📫 "To contact me, please reach out via email at rafikerja2401@gmail.com."
 
-## Skills and Tools
-- Languages: Python, HTML, CSS, SQL.
-- Frameworks: TensorFlow, Pandas, NumPy
-- Tools: Jupyter Notebook, Git, Visual Studio, Power BI, MS Office
-
 ## Projects
 Here are some of my top projects:
 
