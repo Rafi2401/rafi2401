@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Mukhamad Rafi Galih Saputro
 
 ## About Me
-I'm a passionate learner currently diving into the fields of Data Analysis and Software Development. I'm an AI enthusiast who loves exploring new technologies and implementing innovative solutions.
+"I am a dedicated learner actively engaging in the fields of Data Analysis and Software Development. As an AI enthusiast, I enjoy exploring emerging technologies and implementing innovative solutions."
 
 - 🌱 "I am currently advancing my expertise in data analysis and software development."
 - 👯 "I am seeking opportunities for collaboration on AI projects and data analysis challenges."
@@ -9,9 +9,9 @@ I'm a passionate learner currently diving into the fields of Data Analysis and S
 - 📫 "To contact me, please reach out via email at rafikerja2401@gmail.com."
 
 ## Skills and Tools
-- Languages: Python, HTML, CSS
+- Languages: Python, HTML, CSS, SQL.
 - Frameworks: TensorFlow, Pandas, NumPy
-- Tools: Anaconda Jupyter Notebook, Git, Visual Studio, Power BI
+- Tools: Jupyter Notebook, Git, Visual Studio, Power BI, MS Office
 
 ## Projects
 Here are some of my top projects:
