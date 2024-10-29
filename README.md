@@ -32,8 +32,10 @@ I'm a self-trained Data Analyst and Software Developer with experience in AI and
 - [Developed an efficient malware detection system using machine learning classifiers.](https://github.com/rafi2401/psvm-smo-dekomposisi)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafi2401&layout=compact&theme=radical)
-![GitHub Streak](https://streak-stats.demolab.com/?user=rafi2401&theme=radical)
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rafi2401&show_icons=true&theme=radical&count_private=true&hide=contribs)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=rafi2401&theme=radical)
 
 <!-- <div style="display: flex; justify-content: space-between;">
 <img src="https://github-readme-stats.vercel.app/api?username=rafi2401&show_icons=true&theme=dark&count_private=true" alt="Rafi2401 GitHub Stats" style="width: 40%; height: auto;" />
