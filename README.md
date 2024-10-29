@@ -9,8 +9,10 @@
 - 📫 "To contact me, please reach out via email at rafikerja2401@gmail.com."
 
 ## Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/rafi2401) -[Kaggle](https://www.kaggle.com/your-kaggle-rafi2401)
-- [Twitter](https://twitter.com/rafigantian) - [Personal Website](https://www.yourwebsite.com)
+- [LinkedIn](https://www.linkedin.com/in/rafi2401) 
+- [Twitter](https://twitter.com/rafigantian)
+- [Kaggle](https://www.kaggle.com/your-kaggle-rafi2401)
+- [Personal Website](https://www.yourwebsite.com)
 
 <!-- ![Mukhamad Rafi Galih Saputro's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafi2401&show_icons=true&theme=radical&count_private=true&hide=contribs) -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafi2401&layout=compact&theme=radical)
