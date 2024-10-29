@@ -8,21 +8,6 @@
 - 💬 "Please feel free to inquire about AI, data analysis, and software development."
 - 📫 "To contact me, please reach out via email at rafikerja2401@gmail.com."
 
-## Projects
-Here are some of my top projects:
-
-### Data Analysis Project
-A comprehensive analysis of a large dataset to uncover meaningful insights and trends.
-- [Link to Data Analysis Project](https://github.com/rafi2401/data-analysis-project)
-
-### AI Chatbot
-An AI-powered chatbot capable of natural language understanding and response generation.
-- [Link to AI Chatbot Project](https://github.com/rafi2401/ai-chatbot-project)
-
-### Web Scraper
-A web scraping tool to extract and analyze data from websites.
-- [Link to Web Scraper Project](https://github.com/rafi2401/web-scraper-project)
-
 ## Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/rafi2401)
 - [Twitter](https://twitter.com/rafigantian)
