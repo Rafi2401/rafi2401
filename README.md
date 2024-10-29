@@ -30,8 +30,14 @@ I'm a self-trained Data Analyst and Software Developer with experience in AI and
 ### Projects and Highlights
 - [A social network analysis project identifying key influencers for COVID-19 education.](https://github.com/rafi2401/twitter-sna-covid19)
 - [Developed an efficient malware detection system using machine learning classifiers.](https://github.com/rafi2401/psvm-smo-dekomposisi)
-  
-📫 **Contact me:** [rafikerja2401@gmail.com](mailto:rafikerja2401@gmail.com)
 
-![GitHub followers](https://img.shields.io/github/followers/rafi2401?style=social)
-![GitHub stars](https://img.shields.io/github/stars/rafi2401?style=social)
+  <div style="display: flex; justify-content: space-between;">
+  <img src="https://github-readme-stats.vercel.app/api?username=ferrenza&show_icons=true&theme=dark&count_private=true" alt="Ryn's GitHub Stats" style="width: 47%; height: auto;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ferrenza&theme=dark" alt="Ryn's Streak Stats" style="width: 50%; height: auto;" />
+</div>
+
+<div style="margin-top: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferrenza&layout=compact&theme=dark" alt="Top Languages" style="width: 48%;" />
+</div>
+
+📫 **Contact me:** [rafikerja2401@gmail.com](mailto:rafikerja2401@gmail.com)
