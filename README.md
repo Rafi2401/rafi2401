@@ -34,4 +34,10 @@ A web scraping tool to extract and analyze data from websites.
 - [Kaggle](https://www.kaggle.com/your-kaggle-rafi2401)
 - [Personal Website](https://www.yourwebsite.com)
 
+![Mukhamad Rafi Galih Saputro's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafi2401&show_icons=true&theme=radical&count_private=true&hide=contribs)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafi2401&layout=compact&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=rafi2401&theme=radical)
+![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=rafi2401&theme=react-dark)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=rafi2401&theme=radical)
+
 ![Mukhamad Rafi Galih Saputro's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafi2401&show_icons=true&theme=radical)
