@@ -31,13 +31,17 @@ I'm a self-trained Data Analyst and Software Developer with experience in AI and
 - [A social network analysis project identifying key influencers for COVID-19 education.](https://github.com/rafi2401/twitter-sna-covid19)
 - [Developed an efficient malware detection system using machine learning classifiers.](https://github.com/rafi2401/psvm-smo-dekomposisi)
 
-<div style="display: flex; justify-content: space-between;">
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafi2401&layout=compact&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=rafi2401&theme=radical)
+![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=rafi2401&theme=react-dark)
+
+<!-- <div style="display: flex; justify-content: space-between;">
 <img src="https://github-readme-stats.vercel.app/api?username=rafi2401&show_icons=true&theme=dark&count_private=true" alt="Rafi2401 GitHub Stats" style="width: 40%; height: auto;" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=rafi2401&theme=dark" alt="Rafi2401 Streak Stats" style="width: 40%; height: auto;" />
 </div>
 
 <div style="margin-top: 10px;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafi2401&layout=compact&theme=dark" alt="Top Languages" style="width: 48%;" />
-</div>
+</div> -->
 
 📫 **Contact me:** [rafikerja2401@gmail.com](mailto:rafikerja2401@gmail.com)
