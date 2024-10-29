@@ -28,9 +28,7 @@ I'm a self-trained Data Analyst and Software Developer with experience in AI and
 - 💬 "Please feel free to inquire about AI, data analysis, and software development."
 
 ### Projects and Highlights
-- [Identifying Influencers On Twitter For Covid-19 Education](https://github.com/rafi2401/twitter-sna-covid19)
-  A social network analysis project identifying key influencers for COVID-19 education.
-- [Android Malware Detection Using Parallel SVM](https://github.com/rafi2401/psvm-smo-dekomposisi)
-  Developed an efficient malware detection system using machine learning classifiers.
-
+- [A social network analysis project identifying key influencers for COVID-19 education.](https://github.com/rafi2401/twitter-sna-covid19)
+- [Developed an efficient malware detection system using machine learning classifiers.](https://github.com/rafi2401/psvm-smo-dekomposisi)
+  
 📫 **Contact me:** [rafikerja2401@gmail.com](mailto:rafikerja2401@gmail.com)
