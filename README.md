@@ -31,6 +31,8 @@ I'm a self-trained Data Analyst and Software Developer with experience in AI and
 - [A social network analysis project identifying key influencers for COVID-19 education.](https://github.com/rafi2401/twitter-sna-covid19)
 - [Developed an efficient malware detection system using machine learning classifiers.](https://github.com/rafi2401/psvm-smo-dekomposisi)
 
+📫 **Contact me:** [rafikerja2401@gmail.com](mailto:rafikerja2401@gmail.com)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafi2401&layout=compact&theme=radical)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rafi2401&show_icons=true&theme=radical&count_private=true&hide=contribs)
@@ -45,5 +47,3 @@ I'm a self-trained Data Analyst and Software Developer with experience in AI and
 <div style="margin-top: 10px;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafi2401&layout=compact&theme=dark" alt="Top Languages" style="width: 48%;" />
 </div> -->
-
-📫 **Contact me:** [rafikerja2401@gmail.com](mailto:rafikerja2401@gmail.com)
