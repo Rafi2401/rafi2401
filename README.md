@@ -19,16 +19,16 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rafi2401&repo=nama-repository&theme=radical)](https://github.com/rafi2401/nama-repository)
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=rafi2401&theme=radical) -->
 
-### Hi there! 👋 I'm I
+### Hi there! 👋 I'm Rafi
 
 I'm a self-trained Data Analyst and Software Developer with experience in AI and data-driven solutions. My work focuses on using data to solve real-world problems and I’m currently open for collaborations on exciting data projects.
 
-- 📈 I recently completed a roadmap project for data analysis in a startup.
-- 💻 Proficient in tools like JIRA, SAP, Netezza, and MS Project.
-- 🌱 Currently enhancing my skills in [insert any current focus area].
+- 🌱 "I am currently advancing my expertise in data analysis and software development."
+- 👯 "I am seeking opportunities for collaboration on AI projects and data analysis challenges."
+- 💬 "Please feel free to inquire about AI, data analysis, and software development."
 
 ### Projects and Highlights
-- **Identifying Influencers for COVID-19** - Social network analysis to promote health awareness and vaccination.
-- **Android Malware Detection** - A machine learning classifier project to detect harmful malware.
+- [Identifying Influencers On Twitter For Covid-19 Education](https://github.com/rafi2401/twitter-sna-covid19) - A social network analysis project identifying key influencers for COVID-19 education.
+- [Android Malware Detection Using Parallel SVM](https://github.com/rafi2401/psvm-smo-dekomposisi) - Developed an efficient malware detection system using machine learning classifiers.
 
 📫 **Contact me:** [rafikerja2401@gmail.com](mailto:rafikerja2401@gmail.com)
