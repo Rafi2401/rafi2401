@@ -28,6 +28,8 @@ I'm a self-trained Data Analyst and Software Developer with experience in AI and
 - 💬 "Please feel free to inquire about AI, data analysis, and software development."
 
 ### Projects and Highlights
+- [Youtube song analysis using Power BI](https://github.com/Rafi2401/youtube-song-analysis-with-powerbi)
+- [Hotel reservation analysis using MySQL](https://github.com/Rafi2401/hotel-reservation-analysis-mysql)
 - [A social network analysis project identifying key influencers for COVID-19 education.](https://github.com/rafi2401/twitter-sna-covid19)
 - [Developed an efficient malware detection system using machine learning classifiers.](https://github.com/rafi2401/psvm-smo-dekomposisi)
 
