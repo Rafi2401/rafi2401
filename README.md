@@ -38,6 +38,8 @@ I'm a self-trained Data Analyst and Software Developer with experience in AI and
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafi2401&layout=compact&theme=radical)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafi2401&layout=compact&theme=radical)
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rafi2401&show_icons=true&theme=radical&count_private=true&hide=contribs)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=rafi2401&theme=radical)
