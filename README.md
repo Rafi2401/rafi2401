@@ -42,6 +42,7 @@ I'm a self-trained Data Analyst and Software Developer with experience in AI and
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=rafi2401&theme=radical)
 
+🌏 **Site:** [more](https://rafi2401.github.io)
 <!-- <div style="display: flex; justify-content: space-between;">
 <img src="https://github-readme-stats.vercel.app/api?username=rafi2401&show_icons=true&theme=dark&count_private=true" alt="Rafi2401 GitHub Stats" style="width: 40%; height: auto;" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=rafi2401&theme=dark" alt="Rafi2401 Streak Stats" style="width: 40%; height: auto;" />
