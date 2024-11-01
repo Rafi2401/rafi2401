@@ -72,7 +72,7 @@ I'm iam.
 
 Feel free to join my [Discord server](https://discord.gg/H8bcFr2); and if you like Volte, feel free to donate on my [PayPal](https://paypal.me/GreemDev) and/or star the repository.
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rafi2401&theme=dracula)
-![](https://github-profile-summary-cards.vercel.app/api/cards/top-langs/?username=rafi2401&theme=dracula) 
+![Profile](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rafi2401&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafi2401&layout=compact&theme=dracula)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rafi2401&theme=dracula) 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rafi2401&theme=dracula) 
