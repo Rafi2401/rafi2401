@@ -42,6 +42,11 @@ I'm a self-trained Data Analyst and Software Developer with experience in AI and
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=rafi2401&theme=radical)
 
+## Vercel Deployment Status
+
+[![Vercel Status](https://vercel.com/your-username/your-project-name/badge?style=for-the-badge)](https://vercel.com/your-username/your-project-name)
+
+
 🌏 **More** [About  me...](https://rafi2401.github.io)
 <!-- <div style="display: flex; justify-content: space-between;">
 <img src="https://github-readme-stats.vercel.app/api?username=rafi2401&show_icons=true&theme=dark&count_private=true" alt="Rafi2401 GitHub Stats" style="width: 40%; height: auto;" />
