@@ -36,7 +36,7 @@ I'm a self-trained Data Analyst and Software Developer with experience in AI and
 💼 **LinkedIn:** [My LinkedIn](https://linkedin.com/in/Rafi2401)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/cards/top-langs/?username=rafi2401&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafi2401&Layout=cards&theme=dracula)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rafi2401&show_icons=true&theme=radical&count_private=true&hide=contribs)
 
