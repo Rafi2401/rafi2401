@@ -24,6 +24,6 @@ I'm a self-trained Data Analyst and Software Developer with experience in AI and
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rafi2401&theme=maroongold&utcOffset=8)
 
 ### Graph Reference
-![1](github-readme-stats.vercel.app)
-![github-profile-summary-cards.vercel.app](https://github-profile-summary-cards.vercel.app/demo.html))
-![3]([github-readme-streak-stats.herokuapp.com](https://github-readme-streak-stats.herokuapp.com/demo/))
+github-readme-stats.vercel.app
+github-profile-summary-cards.vercel.app
+github-readme-streak-stats.herokuapp.com
