@@ -21,7 +21,7 @@ I'm a self-trained Data Analyst and Software Developer with experience in AI and
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rafi2401&theme=vision_friendly_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rafi2401&theme=vision_friendly_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rafi2401&theme=vision_friendly_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rafi2401&theme=vision_friendly_darkd&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rafi2401&theme=vision_friendly_dark&utcOffset=8)
 
 ### Graph Reference
 <!-- <a href= "github-readme-stats.vercel.app">1</a> -->
