@@ -11,35 +11,19 @@ I'm a self-trained Data Analyst and Software Developer with experience in AI and
 - [Developed an efficient malware detection system using machine learning classifiers.](https://github.com/rafi2401/psvm-smo-dekomposisi)
 - [A social network analysis project identifying key influencers for COVID-19 education.](https://github.com/rafi2401/twitter-sna-covid19)
 
-📫 **Contact me:** [My Mail](mailto:rafikerja2401@gmail.com)<br>
-💼 **LinkedIn:** [My LinkedIn](https://linkedin.com/in/Rafi2401)
+📫 **Contact me:** [Email](mailto:rafikerja2401@gmail.com)<br>
+💼 **LinkedIn:** [LinkedIn](https://linkedin.com/in/Rafi2401)
+🌏 **More** [Website](https://rafi2401.github.io)
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Rafi2401&theme=maroongold&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafi2401&Layout=compact&theme=dracula)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=rafi2401&show_icons=true&theme=radical&count_private=true&hide=contribs)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=rafi2401&theme=radical)
-
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rafi2401&theme=maroongold)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rafi2401&theme=maroongold)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rafi2401&theme=maroongold)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rafi2401&theme=maroongold)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rafi2401&theme=maroongold&utcOffset=8)
 
 ### Graph Reference
-![](https://github-readme-stats.vercel.app)
-![](https://github-profile-summary-cards.vercel.app)
-![](https://github-readme-streak-stats.herokuapp.com)
-
-## Statistik GitHub
-
-![Top Langs](https://github-readme-stats.vercel.app/api/cards/top-langs/?username=rafi2401&theme=dracula)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=rafi2401&show_icons=true&layout=compact&theme=dracula&count_private=true&hide=contribs)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=rafi2401&theme=dracula)
-
-🌏 **More** [About  me...](https://rafi2401.github.io)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Rafi2401&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
-![Profile](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rafi2401&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafi2401&layout=compact&theme=dracula)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rafi2401&theme=dracula) 
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rafi2401&theme=dracula) 
+![1](https://github-readme-stats.vercel.app)
+![2](https://github-profile-summary-cards.vercel.app)
+![3](https://github-readme-streak-stats.herokuapp.com)
