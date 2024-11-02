@@ -14,6 +14,6 @@ I'm a self-trained Data Analyst and Software Developer with experience in AI and
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Rafi2401&theme=vision_friendly_dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
-📫 **Contact me:** [Email](mailto:rafikerja2401@gmail.com)<br>
-💼 **LinkedIn:** [LinkedIn](https://linkedin.com/in/Rafi2401)<br>
-🌏 **More** [Website](https://rafi2401.github.io)
+📫 **Contact me** [here..](mailto:rafikerja2401@gmail.com)<br>
+💼 **LinkedIn** [here..](https://linkedin.com/in/Rafi2401)<br>
+🌏 **Website** [here..](https://rafi2401.github.io)
