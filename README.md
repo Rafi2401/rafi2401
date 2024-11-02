@@ -21,6 +21,12 @@ I'm a self-trained Data Analyst and Software Developer with experience in AI and
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=rafi2401&theme=radical)
 
+
+### Graph Reference
+![](https://github-readme-stats.vercel.app)
+![](https://github-profile-summary-cards.vercel.app)
+![](https://github-readme-streak-stats.herokuapp.com)
+
 ## Statistik GitHub
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/cards/top-langs/?username=rafi2401&theme=dracula)
