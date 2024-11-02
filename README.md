@@ -23,7 +23,7 @@ I'm a self-trained Data Analyst and Software Developer with experience in AI and
 
 ## Statistik GitHub
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafi2401&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafi2401&layout=flat&theme=dracula)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rafi2401&show_icons=true&layout=compact&theme=dracula&count_private=true&hide=contribs)
 
@@ -38,15 +38,6 @@ I'm a self-trained Data Analyst and Software Developer with experience in AI and
 <div style="margin-top: 10px;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafi2401&layout=compact&theme=dark" alt="Top Languages" style="width: 48%;" />
 </div> -->
-
-### Hey there, 
-I'm Raden.
-
-I'm iam.
-
-[Volte](https://github.com/Ultz/Volte) is currently my main project, and I have secondary projects as well, such as [Ryujinx](https://github.com/GreemDev/Ryujinx).
-
-Feel free to join my [Discord server](https://discord.gg/H8bcFr2); and if you like Volte, feel free to donate on my [PayPal](https://paypal.me/GreemDev) and/or star the repository.
 
 ![Profile](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rafi2401&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafi2401&layout=compact&theme=dracula)
