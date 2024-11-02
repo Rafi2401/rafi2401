@@ -25,7 +25,7 @@ I'm a self-trained Data Analyst and Software Developer with experience in AI and
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafi2401&theme=dracula)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=rafi2401&show_icons=true&theme=dracula&Layout=compact&count_private=true&hide=contribs)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=rafi2401&show_icons=true&layout=flat&theme=dracula&count_private=true&hide=contribs)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=rafi2401&theme=dracula)
 
