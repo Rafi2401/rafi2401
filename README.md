@@ -30,14 +30,8 @@ I'm a self-trained Data Analyst and Software Developer with experience in AI and
 ![GitHub Streak](https://streak-stats.demolab.com/?user=rafi2401&theme=dracula)
 
 🌏 **More** [About  me...](https://rafi2401.github.io)
-<!-- <div style="display: flex; justify-content: space-between;">
-<img src="https://github-readme-stats.vercel.app/api?username=rafi2401&show_icons=true&theme=dark&count_private=true" alt="Rafi2401 GitHub Stats" style="width: 40%; height: auto;" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rafi2401&theme=dark" alt="Rafi2401 Streak Stats" style="width: 40%; height: auto;" />
-</div>
 
-<div style="margin-top: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafi2401&layout=compact&theme=dark" alt="Top Languages" style="width: 48%;" />
-</div> -->
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Rafi2401&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 ![Profile](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rafi2401&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafi2401&layout=compact&theme=dracula)
