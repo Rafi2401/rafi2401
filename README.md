@@ -25,5 +25,5 @@ I'm a self-trained Data Analyst and Software Developer with experience in AI and
 
 ### Graph Reference
 <!-- <a href= "github-readme-stats.vercel.app">1</a> -->
-<a href= "https://github-profile-summary-cards.vercel.app/demo.html">Profile Summary Cards</a><br>
-<a href= "https://github-readme-streak-stats.herokuapp.com/demo/">Readme Streak Stats</a>
+<a href= "https://github-readme-streak-stats.herokuapp.com/demo/">Readme Streak Stats</a><br>
+<a href= "https://github-profile-summary-cards.vercel.app/demo.html">Profile Summary Cards</a>
