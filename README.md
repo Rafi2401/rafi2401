@@ -16,4 +16,4 @@ I'm a self-trained Data Analyst and Software Developer with experience in AI and
 
 📫 **Contact me** [here](mailto:rafikerja2401@gmail.com)<br>
 💼 **LinkedIn** [here](https://linkedin.com/in/Rafi2401)<br>
-🌏 **Website** [here](https://rafi2401.github.io)
+🌏 **Personal Website** [here](https://rafi2401.github.io)
